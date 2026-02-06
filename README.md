@@ -1,5 +1,5 @@
 ## Babarin- Jayvhan Lawrence_LW1_Image_Classification.ipynb
-## Google colab link https://drive.google.com/file/d/1qb4KuAieiQTNfTCXyJZxKqePvw9tBL8N/view?usp=sharing
+## Google colab link https://colab.research.google.com/drive/1qb4KuAieiQTNfTCXyJZxKqePvw9tBL8N#scrollTo=L1RmuveOk6_e
 
 ## 1. What is the Fashion MNIST dataset?
 answer: Fashion MNIST is a dataset of 28×28 grayscale images of clothes like shirts, shoes, and bags, used for training and testing machine learning models.

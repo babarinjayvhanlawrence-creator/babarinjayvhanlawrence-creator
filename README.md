@@ -1,5 +1,5 @@
 ## Babarin- Jayvhan Lawrence_LW1_Image_Classification.ipynb
-## Google colab link https://colab.research.google.com/#scrollTo=0I1YyV5bYBia
+## Google colab link https://drive.google.com/file/d/1qb4KuAieiQTNfTCXyJZxKqePvw9tBL8N/view?usp=sharing
 
 ## 1.What is the Fashion MNIST dataset?
 ## Answer: Fashion MNIST is a dataset of 70,000 grayscale images (size $28 \times 28$ pixels) of clothing and accessories.
